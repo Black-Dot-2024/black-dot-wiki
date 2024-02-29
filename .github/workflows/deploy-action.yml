@@ -37,7 +37,7 @@ jobs:
           node-version: 'latest'
           cache: 'npm'
       - name: Install dependencies
-        run: yarn install --frozen-lockfile
+        run: npm install
       - name: Setup Pages
         uses: actions/configure-pages@v4
       - name: Upload artifact
