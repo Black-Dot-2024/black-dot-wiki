@@ -8,13 +8,12 @@ import { themes as prismThemes } from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'Black Dot',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
   url: 'https://blackdot.github.io',
-  projectName: 'blackdot.github.io',
+  projectName: 'black-dot-wiki',
   organizationName: 'blackdot',
   trailingSlash: false,
   deploymentBranch: 'main',
@@ -60,16 +59,11 @@ const config = {
       navbar: {
         title: 'Black Dot',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Black Dot Logo',
           src: 'img/logo.svg',
+          href: '/docs',
         },
         items: [
-          {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'Docs',
-          },
           {
             href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',

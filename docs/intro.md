@@ -1,3 +1,8 @@
+---
+sidebar_position: 1
+slug: /
+---
+
 # Bienvenido a la Wiki de BlackDot Software
 
 ¡Hola! Este es el espacio colaborativo del departamento de software **BlackDot**, donde documentamos nuestras prácticas, guías, y todo lo relacionado con nuestro trabajo diario y nuestra cultura de desarrollo.
