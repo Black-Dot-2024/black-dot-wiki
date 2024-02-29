@@ -35,7 +35,7 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: 'latest'
-          cache: 'yarn'
+          cache: 'npm'
       - name: Install dependencies
         run: yarn install --frozen-lockfile
       - name: Setup Pages
