@@ -59,7 +59,7 @@ const config = {
         title: 'Black Dot',
         logo: {
           alt: 'Black Dot Logo',
-          src: 'img/logo.svg',
+          src: 'img/logo.png',
         },
         items: [
           {
