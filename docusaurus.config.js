@@ -12,16 +12,15 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://blackdot.github.io',
+  url: 'https://black-dot-2024.github.io',
   projectName: 'black-dot-wiki',
-  organizationName: 'blackdot',
+  organizationName: 'Black-Dot-2024',
   trailingSlash: false,
-  deploymentBranch: 'main',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/black-dot-wiki/',
   onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
+  onBrokenMarkdownLinks: 'throw',
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
