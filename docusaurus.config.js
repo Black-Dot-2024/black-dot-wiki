@@ -33,7 +33,7 @@ const config = {
           sidebarPath: './sidebars.js',
           editUrl:
             // TODO: Change this to  repo
-            'https://github.com/Black-Dot-2024/black-dot-wiki/tree/main/docs',
+            'https://github.com/Black-Dot-2024/black-dot-wiki/tree/main',
         },
         blog: false,
         theme: {
