@@ -11,13 +11,6 @@ En esta wiki, compartimos conocimientos y recursos sobre:
 - **Procesos de Trabajo**: Nuestros métodos para desarrollo ágil, revisión de código, despliegues, etc.
 - **Cultura de Equipo**: Todo sobre cómo colaboramos, resolvemos problemas, y crecemos juntos.
 
-## Navegación
-
-- [Prácticas de Desarrollo](/practicas-desarrollo)
-- [Guías y Tutoriales](/guias-tutoriales)
-- [Procesos de Trabajo](/procesos-trabajo)
-- [Cultura de Equipo](/cultura-equipo)
-
 ---
 
 Gracias por ser parte de nuestra comunidad de desarrollo. ¡Juntos hacemos de BlackDot un lugar increíble para crear software!
