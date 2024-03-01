@@ -24,3 +24,4 @@ No se cuenta con un horario fijo para las reuniones, estas se llevarán a cabo c
 | Versión | Cambio | Autor del cambio | Aprobado por | Fecha de cambio |
 |---------|--------|------------------|--------------|-----------------|
 | v 1.0.0 | Creación del plan |Diego Sandoval |  | 29/02/2024 |
+
