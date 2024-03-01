@@ -1,7 +1,6 @@
 
 
 | Nombre del profesor | Especialidad |
-| :-----------------: | :---------- |
 | Eduardo Daniel Juárez Pineda | Profesor de los módulos Procesos para el desarrollo de sofware comercia y Administración inicial de proyectos |
 | Lilia Carolina Rodríguez Galván | Maestra de ética, en administración y consultora de negocios |
 | Denisse Lizbeth Maldonado Flores | Desarrolladora de software, UX/UI, Móviles, consejos prácticos |
