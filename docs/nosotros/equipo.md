@@ -27,7 +27,7 @@
 | Damariz Licea      |                | Team member                   |                     |                    |
 | David Langarica    |                | Team member                   |                     |                    |
 | Arturo Díaz        |                | Team member                   |                     |                    |
-| Denisse Dominguez  |                | Team member / Comité de ética |                     |                    |
+| Denisse Dominguez  |@DenisseDB      | Team member / Comité de ética |                     |                    |
 | Daniel Hurtado     |                | Team member                   |                     |                    |
 | Diego Perdomo      |                | Team member                   |                     |                    |
 | Diego Vega         | @dvegaa20      | Team member                   |                     |                    |
