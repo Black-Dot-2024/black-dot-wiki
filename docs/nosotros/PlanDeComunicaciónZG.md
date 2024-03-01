@@ -1,4 +1,4 @@
-# Plan de comunicación con CR Organizacional
+# Plan de comunicación con ZeitGeist
 
 ## Objetivo
 
