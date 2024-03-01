@@ -20,7 +20,7 @@ Ejemplo: `v 1`, `v 2`, `v 3`, etc.
 
 ### Documentación y Registro
 
-- **Control de Cambios:** Mantener un registro actualizado en un lugar accesible por todos los miembros del equipo, donde se documenten las versiones junto con sus notas de versión correspondientes.
+1. **Control de Cambios:** Mantener un registro actualizado en un lugar accesible por todos los miembros del equipo, donde se documenten las versiones junto con sus notas de versión correspondientes.
 
 
 ## Control de cambios
