@@ -110,17 +110,17 @@ Se realizarán tres iteraciones, una por cada versión entregada.
 
 ### Frontend 🌐
 
-- [**React**](https://reactjs.org/) ⚛️: Biblioteca de JavaScript para construir interfaces de usuario. Utilizada para gestionar el estado y las interacciones en la aplicación web.
-- [**TypeScript**](https://www.typescriptlang.org/) 📘: Superset de JavaScript que añade tipado estático, mejorando la calidad del código y la productividad.
-- [**Tailwind CSS**](https://tailwindcss.com/) 🎨: Framework de CSS para diseñar componentes de interfaz de usuario con estilos predefinidos y utilidades personalizables.
+- <u>[**React**](https://reactjs.org/) <u/> ⚛️: Biblioteca de JavaScript para construir interfaces de usuario. Utilizada para gestionar el estado y las interacciones en la aplicación web.
+- <u>[**TypeScript**](https://www.typescriptlang.org/) <u/>📘: Superset de JavaScript que añade tipado estático, mejorando la calidad del código y la productividad.
+- <u>[**Tailwind CSS**](https://tailwindcss.com/) <u/> 🎨: Framework de CSS para diseñar componentes de interfaz de usuario con estilos predefinidos y utilidades personalizables.
 
 ### Backend 🔧
 
-- [**Node.js**](https://nodejs.org/) 🟢: Entorno de ejecución para JavaScript en el servidor, maneja las solicitudes HTTP y la lógica de negocio.
-- [**Express.js**](https://expressjs.com/) 🚀: Framework para Node.js que facilita la creación de servidores web y la definición de rutas de API.
-- [**Prisma**](https://www.prisma.io/) 🗃️: Herramienta ORM para modelar y gestionar la base de datos, simplificando las interacciones con PostgreSQL.
-- [**PostgreSQL**](https://www.postgresql.org/) 🐘: Sistema de gestión de bases de datos relacional, utilizado para almacenar los datos de la aplicación.
-- [**Mocha**](https://mochajs.org/) & [**Chai**](https://www.chaijs.com/) ☕🍵: Herramientas para realizar pruebas unitarias y de integración en el backend.
+- <u>[**Node.js**](https://nodejs.org/) </u> 🟢: Entorno de ejecución para JavaScript en el servidor, maneja las solicitudes HTTP y la lógica de negocio.
+- <u>[**Express.js**](https://expressjs.com/) </u> 🚀: Framework para Node.js que facilita la creación de servidores web y la definición de rutas de API.
+- <u>[**Prisma**](https://www.prisma.io/)  </u> 🗃️: Herramienta ORM para modelar y gestionar la base de datos, simplificando las interacciones con PostgreSQL.
+- <u>[**PostgreSQL**](https://www.postgresql.org/)  </u>🐘: Sistema de gestión de bases de datos relacional, utilizado para almacenar los datos de la aplicación.
+- <u>[**Mocha**](https://mochajs.org/) </u> & <u> [**Chai**](https://www.chaijs.com/)  </u>☕🍵: Herramientas para realizar pruebas unitarias y de integración en el backend.
 
 ## Justificación de arquitectura
 
