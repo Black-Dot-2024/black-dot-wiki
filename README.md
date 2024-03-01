@@ -1,3 +1,5 @@
+### Link to Black Dot Wiki Website: [Black Dot Wiki](https://black-dot-2024.github.io/black-dot-wiki/)
+
 # Website
 
 This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
