@@ -12,13 +12,11 @@ Este estándar busca reemplazar los métodos de versionamiento complejos o detal
 
 ### Estilos de Versionamiento
 
-- **Vesiones principales:** Se utilizará un sistema de numeración secuencial simple para identificar cada nueva versión mayor de un archivo. Estas versiones representan cambios significativos, revisiones completas, o el lanzamiento de nuevas funcionalidades importantes.
+1. **Vesiones principales:** Se utilizará un sistema de numeración secuencial simple para identificar cada nueva versión mayor de un archivo. Estas versiones representan cambios significativos, revisiones completas, o el lanzamiento de nuevas funcionalidades importantes.
 
 Ejemplo: `v 1`, `v 2`, `v 3`, etc.
 
-- **Notas de versión:** Junto con cada versión, se debe proporcionar una breve descripción de los cambios realizados. Esto ayudará a los miembros del equipo a entender el alcance de las modificaciones y la razón detrás de la nueva versión.
-
-Ejemplo: `v1 - Lanzamiento inicial`; `v2 - Revisión completa del documento`; `v3 - Actualización de secciones 2 y 3`.
+1. **Notas de versión:** Junto con cada versión, se debe proporcionar una breve descripción de los cambios realizados. Esto ayudará a los miembros del equipo a entender el alcance de las modificaciones y la razón detrás de la nueva versión.
 
 ### Documentación y Registro
 
