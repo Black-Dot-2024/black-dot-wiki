@@ -9,7 +9,7 @@ Aquí tienes una tabla que resume algunos de nuestros intereses y hobbies:
 | Nombre                 | Hobbies                                                                         | Videojuego                     | Película                          |
 | ---------------------- | ------------------------------------------------------------------------------- | ------------------------------ | --------------------------------- |
 | Daniel Fuentes         | Jugar videojuegos, nadar, leer, ver Youtbe                                      | Luigi's Mansion                | La Sociedad de los Poetas Muertos |
-| Olimpia García         | Jugar videojuegos, tocar la guitarra                                            | Factorio                       | Titanes del Pacífico              |
+| Olimpia García         | Leer, ver series y películas, escuchar música                                   | Overcooked                     | Orgullo y Prejucio (2005)         |
 | Ricardo Fernández      | Jugar videojuegos, tocar la guitarra                                            | Factorio                       | Titanes del Pacífico              |
 | Daniel Cajas           | Jugar videojuegos, basketball, música, programar                                | Outerwilds                     | Oppenheimer                       |
 | Ale Cabrera            | Pintar, leer, escribir                                                          | Hayday                         | El cádaver de la novia            |
