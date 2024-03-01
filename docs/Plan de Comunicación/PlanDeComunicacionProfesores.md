@@ -31,6 +31,6 @@ Los canales de comunicación principales con los profesores será mediante el co
 ## Control de cambios
 | Versión | Cambio | Autor del cambio | Aprobado por | Fecha de cambio |
 |---------|--------|------------------|--------------|-----------------|
-| v 1.0.0 | Creación del plan| Diego Sandoval |  Yuna Chung | 28/02/2024 |
-| v 1.0.1 | Se agrega tabla de profesores| Yuna Chung | Diego Sandoval  | 29/02/2024 |
+| v 1.0.0 | Creación del plan | Diego Sandoval |  Yuna Chung | 28/02/2024 |
+| v 1.0.1 | Se agrega tabla de profesores | Yuna Chung | Diego Sandoval  | 29/02/2024 |
 
