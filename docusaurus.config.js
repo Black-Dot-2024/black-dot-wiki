@@ -16,8 +16,9 @@ const config = {
   organizationName: 'Black-Dot-2024',
   trailingSlash: false,
   baseUrl: '/black-dot-wiki',
-  onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'throw',
+  onBrokenLinks: 'log',
+  onBrokenMarkdownLinks: 'log',
+  onBrokenAnchors: 'log',
   i18n: {
     defaultLocale: 'es',
     locales: ['es'],
