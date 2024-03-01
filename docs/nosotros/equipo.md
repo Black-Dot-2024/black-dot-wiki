@@ -1,45 +1,43 @@
 # Equipo y Roles
 
----
-
 ## <img src="https://github.com/Black-Dot-2024/black-dot-wiki/blob/main/static/img/equipo.jpeg?raw=true" alt="Equipo BlackDot"></img>
 
 ---
 
 # Integrantes y sus roles
 
-| Nombre             | Usuario        | Rol Primer Periodo            | Rol Segundo Periodo | Rol Tercer Periodo |
-| ------------------ | -------------- | ----------------------------- | ------------------- | ------------------ |
-| Olimpia García     |                | Program Manager               |                     |                    |
-| Daniel Portaluppi  | @porta         | Program Manager               |                     |                    |
-| Ricardo Fernández  | @Richie        | Product Owner                 |                     |                    |
-| Mike Tena          | @Bromaeg       | Product Owner                 |                     |                    |
-| Carlos Salguero    | @salgue441     | Arquitecture Owner            |                     |                    |
-| Cajas              | @cajas         | Arquitecture Owner            |                     |                    |
-| Rodrigo Terán      | @Terán         | Team Leader                   |                     |                    |
-| Charlie Velasco    | @charlesvela66 | Team Leader                   |                     |                    |
-| Ricardo Rosales    |                | Team member                   |                     |                    |
-| Diego Sandoval     |                | Team member                   |                     |                    |
-| Diego Llaca        |                | Team member / Comité de ética |                     |                    |
-| Yuna Chung         |                | Team member                   |                     |                    |
-| Alejandra Cabrera  |                | Team member                   |                     |                    |
-| Armando Rosas      | @ArmandoRosasB | Team member                   |                     |                    |
-| Damariz Licea      |                | Team member                   |                     |                    |
-| David Langarica    |                | Team member                   |                     |                    |
-| Arturo Díaz        |                | Team member                   |                     |                    |
-| Denisse Dominguez  |@DenisseDB      | Team member / Comité de ética |                     |                    |
-| Daniel Hurtado     |                | Team member                   |                     |                    |
-| Diego Perdomo      |                | Team member                   |                     |                    |
-| Diego Vega         | @dvegaa20      | Team member                   |                     |                    |
-| Frida Bailleres    | @FridaBG       | Team member                   |                     |                    |
-| Ian PC             |                | Team member                   |                     |                    |
-| Juan Pablo Cabrera |                | Team member / Comité de ética |                     |                    |
-| Mafer Moreno       |                | Team member                   |                     |                    |
-| Ramona Nájera      | @RamonaNF      | Team member / Comité de ética |                     |                    |
-| José Riosmena      |                | Team member                   |                     |                    |
-| Sebastián Flores   |                | Team member / Comité de ética |                     |                    |
-| Sergio Garnica     |                | Team member                   |                     |                    |
-| Uri Gopar          |                | Team member                   |                     |                    |
+| Nombre             | Usuario         | Rol Primer Periodo            | Rol Segundo Periodo | Rol Tercer Periodo |
+| ------------------ | --------------- | ----------------------------- | ------------------- | ------------------ |
+| Olimpia García     |                 | Program Manager               |                     |                    |
+| Daniel Portaluppi  | @porta          | Program Manager               |                     |                    |
+| Ricardo Fernández  | @Richie         | Product Owner                 |                     |                    |
+| Mike Tena          | @Bromaeg        | Product Owner                 |                     |                    |
+| Carlos Salguero    | @salgue441      | Arquitecture Owner            |                     |                    |
+| Cajas              | @cajas          | Arquitecture Owner            |                     |                    |
+| Rodrigo Terán      | @Terán          | Team Leader                   |                     |                    |
+| Charlie Velasco    | @charlesvela66  | Team Leader                   |                     |                    |
+| Ricardo Rosales    |                 | Team member                   |                     |                    |
+| Diego Sandoval     |                 | Team member                   |                     |                    |
+| Diego Llaca        |                 | Team member / Comité de ética |                     |                    |
+| Yuna Chung         |                 | Team member                   |                     |                    |
+| Alejandra Cabrera  |                 | Team member                   |                     |                    |
+| Armando Rosas      | @ArmandoRosasB  | Team member                   |                     |                    |
+| Damariz Licea      |                 | Team member                   |                     |                    |
+| David Langarica    | @DavidLangarica | Team member                   |                     |                    |
+| Arturo Díaz        |                 | Team member                   |                     |                    |
+| Denisse Dominguez  | @DenisseDB      | Team member / Comité de ética |                     |                    |
+| Daniel Hurtado     |                 | Team member                   |                     |                    |
+| Diego Perdomo      |                 | Team member                   |                     |                    |
+| Diego Vega         | @dvegaa20       | Team member                   |                     |                    |
+| Frida Bailleres    | @FridaBG        | Team member                   |                     |                    |
+| Ian PC             |                 | Team member                   |                     |                    |
+| Juan Pablo Cabrera |                 | Team member / Comité de ética |                     |                    |
+| Mafer Moreno       |                 | Team member                   |                     |                    |
+| Ramona Nájera      | @RamonaNF       | Team member / Comité de ética |                     |                    |
+| José Riosmena      |                 | Team member                   |                     |                    |
+| Sebastián Flores   |                 | Team member / Comité de ética |                     |                    |
+| Sergio Garnica     |                 | Team member                   |                     |                    |
+| Uri Gopar          |                 | Team member                   |                     |                    |
 
 ---
 
