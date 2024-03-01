@@ -40,7 +40,7 @@ Aquí tienes una tabla que resume algunos de nuestros intereses y hobbies:
 | Ian Padrón             | Tocar guitarra, escuchar música, jugar videojuegos                              | Lethal Company                 | Wall-e                            |
 | David Langarica        | Arquería, investigar mucho de todo                                              | Mario Kart                     | Un lugar en silencio              |
 | Daniel Hurtado         | Hacer ejercicio, practicar deportes, aprender                                   | Jedi: Survivor                 | Parásitos                         |
-| Juan Pablo Cabrera     | Hacer deportes, jugar videojuegos, ir al cine, ir al casino, estar con su novia | Mario Kart                     | Un lugar en silencio              |
+| Juan Pablo Cabrera     | Hacer deportes, jugar videojuegos, ir al cine, ir al casino, estar con su novia | Mario Kart                     | Saga de Star Wars                 |
 | José Emiliano Riosmena | Escuchar música, jugar videojuegos, tocar música, moverse                       | Super Mario Galaxy             | Terminator 2                      |
 
 ## ¿Qué escucha Blackdot?
