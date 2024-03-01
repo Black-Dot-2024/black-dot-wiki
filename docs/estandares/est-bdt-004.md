@@ -1,4 +1,4 @@
-# POL-BDT-001 Identificadores de Documentación
+# EST-BDT-004 Identificadores de Documentación
 
 v 1.0.1 / áreas del CMMI
 
