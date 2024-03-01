@@ -5,13 +5,12 @@ Cada miembro del departamento BlackDot se compromete a cumplir con los siguiente
 
 En caso de incumplimiento, se aplicarán las consecuencias correspondientes.
 
-## Índice (pendiente agregar links - Frida lo va a hacer )
-
-- [Compromiso 01: Ejecución de horas]
-- [Compromiso 02: Comunicación en el Departamento]
-- [Compromiso 03: Juntas del Departamento]
-- [Compromiso 04: Respeto en la comunicación]
-- [Compromiso 05: Asistencia interpersonal]
+## Índice
+- <u>[Compromiso 01: Ejecución de horas](#compromiso-01-ejecución-de-horas)</u>
+- <u>[Compromiso 02: Comunicación en el Departamento](#compromiso-03-comunicación-en-el-departamento)</u>
+- <u>[Compromiso 03: Juntas del Departamento](#compromiso-04-juntas-del-departamento)</u>
+- <u>[Compromiso 04: Respeto en la comunicación](#compromiso-05-respeto-en-la-comunicación)</u>
+- <u>[Compromiso 05: Asistencia interpersonal](#compromiso-06-asistencia-interpersonal)</u>
 
 
 ### Compromiso 01: Ejecución de horas
