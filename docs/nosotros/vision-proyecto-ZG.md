@@ -140,7 +140,7 @@ En esta propuesta, presentamos una estimación de costos para los servicios de i
 | Básico AWS | Servicios gratuitos limitados para alojar la aplicación y almacenar documentos. | $5.00 |
 | Intermedio AWS | Servicios básicos para alojar y gestionar la aplicación, con almacenamiento para documentos y archivos  | $216.39 |
 | Avanzado AWS | Servicios mejorados para un mejor rendimiento y capacidad de almacenamiento. | $315.00 |
-| Alternativa Google | Alternativa gratuita con servicios de Google para alojar y gestionar la aplicación, con límites de uso. | $200 - $220.00 |
+| Alternativa Google | Alternativa gratuita con servicios de Google para alojar y gestionar la aplicación, con límites de uso. | $200.00 - $220.00 |
 
 # Riesgos 
 
