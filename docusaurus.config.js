@@ -10,7 +10,6 @@ import { themes as prismThemes } from 'prism-react-renderer';
 const config = {
   title: 'Black Dot',
   favicon: 'img/favicon.ico',
-
   url: 'https://black-dot-2024.github.io',
   projectName: 'black-dot-wiki',
   organizationName: 'Black-Dot-2024',
@@ -23,7 +22,10 @@ const config = {
     defaultLocale: 'es',
     locales: ['es'],
   },
-
+  markdown: {
+    mermaid: true,
+  },
+  themes: ['@docusaurus/theme-mermaid'],
   presets: [
     [
       'classic',
@@ -33,7 +35,6 @@ const config = {
           routeBasePath: '/',
           sidebarPath: './sidebars.js',
           editUrl:
-            // TODO: Change this to  repo
             'https://github.com/Black-Dot-2024/black-dot-wiki/tree/main',
         },
         blog: false,
