@@ -8,7 +8,7 @@ Mantener una comunicación continua, respetuosa y efectiva tanto con los miembro
 
 En nuestro departamento reconocemos la importancia de una comunicación responsable y respetuosa con todos los que formen parte tanto del departamento como de proyectos.
 
-Es importante seguir fielmente los [valores](https://github.com/Black-Dot-2024/docs/wiki/Misión,-Visión,-Valores-y-Objetivos:) y el [Código de ética](www.blackdot/codigoEtica) del departamento en todas nuestras interacciones.
+Es importante seguir fielmente los valores y Código de ética del departamento en todas nuestras interacciones.
 
 
 ## Medios
