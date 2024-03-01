@@ -31,5 +31,5 @@ El diagrama del proceso es opcional
 ## Control de cambios
 | Versión | Cambio | Autor del cambio | Aprobado por | Fecha de cambio |
 |---------|--------|------------------|--------------|-----------------|
-| v 1.0.0 | Creación del proceso | Armando Rosas </br> Ian Padrón </br> Ramona Nájera |  | 29/02/2024 |
+| v 1.0.0 | Creación del proceso | Armando Rosas <br> Ian Padrón </br> Ramona Nájera |  | 29/02/2024 |
 
