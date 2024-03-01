@@ -44,8 +44,8 @@ Aquí tienes una tabla que resume algunos de nuestros intereses y hobbies:
 
 Además de nuestras aficiones principales, también queremos compartir la playlist del equipo.
 
-[Apple Music](https://music.apple.com/mx/playlist/black-dot/pl.u-6mo4l1WFlePJJR) :apple
+[Apple Music](https://music.apple.com/mx/playlist/black-dot/pl.u-6mo4l1WFlePJJR) 🍎
 <br>
-[Spotify](https://music.apple.com/mx/playlist/black-dot/pl.u-6mo4l1WFlePJJR) :musical_note
+[Spotify](https://music.apple.com/mx/playlist/black-dot/pl.u-6mo4l1WFlePJJR) 🟢
 
 Esperamos que esta pequeña ventana a nuestras vidas te haya ayudado a conocernos un poco mejor. ¡Estamos emocionados de trabajar y crear juntos!
