@@ -1,10 +1,10 @@
-# EST-BDT-00X Nombre del estándar
+# PL-BDT-003 Plantilla de Estándares
 
 v 0.0.0 / áreas del CMMI
 
 ## Propósito
 
-Esta sección debe describir el objetivo principal del estándar. Debe explicar qué se busca lograr con la implementación de éste en términos de mejora de procesos, eficiencia, calidad, etc.
+Esta sección debe describir el objetivo principal del estándar. Debe explicar qué se busca lograr con su implementación en términos de mejora de procesos, eficiencia, calidad, etc.
 
 ## Notas introductorias
 

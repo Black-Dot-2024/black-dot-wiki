@@ -1,10 +1,10 @@
-# PRO-BDT-00X Nombre del proceso
+# PL-BDT-001 Plantilla de Procesos
 
 v 0.0.0 / áreas del CMMI
 
 ## Propósito
 
-Esta sección debe describir el objetivo principal del proceso. Debe explicar qué se busca lograr con la implementación de este proceso en términos de mejora de procesos, eficiencia, calidad, etc.
+Esta sección debe describir el objetivo principal del proceso. Debe explicar qué se busca lograr con su implementación en términos de mejora de procesos, eficiencia, calidad, etc.
 
 ## Notas introductorias
 
@@ -16,7 +16,7 @@ Los involucrados en el proceso
 
 ## Entradas
 
-En qué situaciones puede ejecutarse el proceso
+Todo lo necesario para poder ejecutar el proceso
 
 ## Salidas
 

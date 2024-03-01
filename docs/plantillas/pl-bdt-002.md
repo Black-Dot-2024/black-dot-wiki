@@ -1,10 +1,10 @@
-# POL-BDT-00X Nombre de la política
+# PL-BDT-002 Plantilla de Políticas
 
 v 0.0.0 / áreas del CMMI
 
 ## Propósito
 
-Esta sección debe describir el objetivo principal de la política. Debe explicar qué se busca lograr con la implementación de ésta en términos de mejora de procesos, eficiencia, calidad, etc.
+Esta sección debe describir el objetivo principal de la política. Debe explicar qué se busca lograr con su implementación en términos de mejora de procesos, eficiencia, calidad, etc.
 
 ## Notas introductorias
 
@@ -16,7 +16,7 @@ Los involucrados en la política
 
 ## Entradas
 
-En qué situaciones puede ejecutarse la política
+Todo lo necesario para poder ejercer la política
 
 ## Salidas
 

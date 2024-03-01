@@ -1,10 +1,10 @@
-# MAN-BDT-00X Nombre del manual
+# PL-BDT-004 Plantilla de Manuales
 
 v 0.0.0 / áreas del CMMI
 
 ## Propósito
 
-Esta sección debe describir el objetivo principal del manual. Debe explicar qué se busca lograr con la implementación de éste en términos de mejora de procesos, eficiencia, calidad, etc.
+Esta sección debe describir el objetivo principal del manual. Debe explicar qué se busca lograr con su implementación en términos de mejora de procesos, eficiencia, calidad, etc.
 
 ## Notas introductorias
 
@@ -16,7 +16,7 @@ Los involucrados en el manual
 
 ## Entradas
 
-En qué situaciones puede ejecutarse el manual
+Todo lo necesario para poder seguir el manual
 
 ## Salidas
 
