@@ -57,7 +57,7 @@ A lo largo de todo el ciclo de vida, las siguientes actividades deben verse refl
 ## Comienzo
 Se realizarán dos iteraciones.
 
-**1ra iteración**: Se crea la primera versión de los lineamientos departamentales y se validan. <br>
+**1ra iteración**: Se crea la primera versión de los lineamientos departamentales y se validan. <br/>
 **2da iteración**: Se modifican los lineamientos de acuerdo a la reatroalimentación para consolidarlos.
 
 ####    Hitos asociados:
