@@ -118,8 +118,8 @@ Se realizarán tres iteraciones, una por cada versión entregada.
 
 - <u>[**Node.js**](https://nodejs.org/) </u> 🟢: Entorno de ejecución para JavaScript en el servidor, maneja las solicitudes HTTP y la lógica de negocio.
 - <u>[**Express.js**](https://expressjs.com/) </u> 🚀: Framework para Node.js que facilita la creación de servidores web y la definición de rutas de API.
-- <u>[**Prisma**](https://www.prisma.io/)  </u> 🗃️: Herramienta ORM para modelar y gestionar la base de datos, simplificando las interacciones con PostgreSQL.
-- <u>[**PostgreSQL**](https://www.postgresql.org/)  </u>🐘: Sistema de gestión de bases de datos relacional, utilizado para almacenar los datos de la aplicación.
+- <u>[**Prisma**](https://www.prisma.io/) </u> 🗃️: Herramienta ORM para modelar y gestionar la base de datos, simplificando las interacciones con PostgreSQL.
+- <u>[**PostgreSQL**](https://www.postgresql.org/) </u>🐘: Sistema de gestión de bases de datos relacional, utilizado para almacenar los datos de la aplicación.
 - <u>[**Mocha**](https://mochajs.org/)  &  [**Chai**](https://www.chaijs.com/) </u> ☕🍵: Herramientas para realizar pruebas unitarias y de integración en el backend.
 
 ## Justificación de arquitectura
