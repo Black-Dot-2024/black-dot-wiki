@@ -137,10 +137,10 @@ En esta propuesta, presentamos una estimación de costos para los servicios de i
 
 | Propuesta | Descripción de Servicios | Costo Total Mensual (MXN) |
 |-----------|--------------------------|---------------------------|
-| Básico AWS | Servicios gratuitos limitados para alojar la aplicación y almacenar documentos. | $5 |
+| Básico AWS | Servicios gratuitos limitados para alojar la aplicación y almacenar documentos. | $5.00 |
 | Intermedio AWS | Servicios básicos para alojar y gestionar la aplicación, con almacenamiento para documentos y archivos  | $216.39 |
-| Avanzado AWS | Servicios mejorados para un mejor rendimiento y capacidad de almacenamiento. | $315 |
-| Alternativa Google | Alternativa gratuita con servicios de Google para alojar y gestionar la aplicación, con límites de uso. | $0 |
+| Avanzado AWS | Servicios mejorados para un mejor rendimiento y capacidad de almacenamiento. | $315.00 |
+| Alternativa Google | Alternativa gratuita con servicios de Google para alojar y gestionar la aplicación, con límites de uso. | $200.00 - $220.00 |
 
 # Riesgos 
 
