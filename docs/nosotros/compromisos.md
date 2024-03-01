@@ -5,7 +5,7 @@ Cada miembro del departamento BlackDot se compromete a cumplir con los siguiente
 
 En caso de incumplimiento, se aplicarán las consecuencias correspondientes.
 
-## Índice
+## Índice (pendiente agregar links - Frida lo va a hacer )
 
 - [Compromiso 01: Ejecución de horas]
 - [Compromiso 02: Comunicación en el Departamento]
