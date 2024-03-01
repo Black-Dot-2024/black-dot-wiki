@@ -23,7 +23,7 @@ Ejemplo: `v1 - Lanzamiento inicial`; `v2 - Revisión completa del documento`; `v
 ### Documentación y Registro
 
 - **Control de Cambios:** Mantener un registro actualizado en un lugar accesible por todos los miembros del equipo, donde se documenten las versiones junto con sus notas de versión correspondientes.
-- **Ubicación de Archivos:** Todos los archivos versionados deben almacenarse en una ubicación centralizada y accesible, preferiblemente en un sistema de control de versiones o en una carpeta compartida claramente estructurada.
+
 
 ## Control de cambios
 
