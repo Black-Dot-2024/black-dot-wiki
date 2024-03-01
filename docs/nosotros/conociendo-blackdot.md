@@ -1,3 +1,7 @@
+---
+sidebar_position: 1
+---
+
 # Conociendo a Blackdot
 
 Aquí compartimos un poco sobre nuestras aficiones, gustos y lo que nos hace únicos.
