@@ -1,4 +1,4 @@
-# Misión, Visión y Valores
+# Misión, Visión, Objetivos y Valores
 
 ---
 
@@ -13,6 +13,12 @@ Convertir sueños en realidades tangibles mediante el desarrollo ético e innova
 Ser líderes en la creación de software que transforme vidas, impulsando el progreso y la innovación en cada rincón del mundo. Aspiramos a ser reconocidos por nuestra integridad, creatividad y compromiso con la excelencia, construyendo un futuro donde la tecnología sirva como puente para la realización de sueños y el bienestar global.
 
 **🌟 Emblema (Visión):** "Ser líderes que transformen vidas mediante software innovador."
+
+## Objetivos
+
+1. Alcanzar el nivel 2.6 del CMMI-DEV en los próximos 4 meses, implementando estándares que mejoren la satisfacción del cliente y fomenten un ambiente de trabajo positivo. Este progreso será medible mediante evaluaciones SCAMPI y monitoreo continuo a través de revisiones regulares y retroalimentación de clientes e involucrados. Implementaremos un plan de formación continua para el equipo, asegurando la adquisición de competencias necesarias para nuestra meta, lo cual es crucial para nuestro desarrollo sostenible y la armonía del equipo.
+
+2. Buscar el crecimiento de las habilidades de todos los miembros del equipo de desarrollo del departamento Black Dot antes del 15 de junio de 2024 sin sacrificar la salud física o mental. Mediante el uso de herramientas como Hapiness Door y Retrospectivas para llevar un registro del estado anímico del equipo. Y el seguimiento de horas donde cada miembro del equipo trabajó al menos el 90% de las horas acordadas, y no más del 110% de las mismas.
 
 ## Valores
 
