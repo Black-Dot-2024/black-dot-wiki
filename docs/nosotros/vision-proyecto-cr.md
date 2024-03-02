@@ -112,6 +112,4 @@ Falta por agregar
 
 # Riesgos 
 
-```
-Falta por agregar 
-```
+[Plan de Riesgos](https://docs.google.com/spreadsheets/d/1qlkNWrnsY4GdnN6vlMMmOpeQMdMY4EydTHZ9DmPvUGE/edit?usp=sharing)
