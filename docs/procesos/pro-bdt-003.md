@@ -1,6 +1,6 @@
 # PRO-BDT-003 Identificación de la Necesidad del Cliente
 
-v 1.0.0 / PP, PMC, RD, CM, VAL
+v 1.0.1 / PP, PMC, RD, CM, VAL
 
 ## Propósito
 
@@ -12,11 +12,11 @@ Todos los integrantes del equipo
 
 ## Entradas
 
-Proyecto a realizar
+Apuntes sobre la idea del proyecto de un cliente
 
 ## Salidas
 
-Neceisdad del cliente documentada
+Necesidad del cliente documentada
 
 ## Descripción
 
@@ -39,3 +39,4 @@ Neceisdad del cliente documentada
 | Versión | Cambio           | Autor del cambio | Aprobado por      | Fecha de cambio |
 | ------- | ---------------- | ---------------- | ----------------- | --------------- |
 | v 1.0.0 | Crear el proceso | Carlos Velasco   | Alejandra Cabrera | 25/02/2024      |
+| v 1.0.1 | Actualizar la entrada | Ian Padrón  | Ramona Nájera     | 01/03/2024      |
