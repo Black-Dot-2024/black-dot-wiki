@@ -6,38 +6,38 @@
 
 # Integrantes y sus roles
 
-| Nombre             | Usuario         | Rol Primer Periodo            | Rol Segundo Periodo | Rol Tercer Periodo |
-| ------------------ | --------------- | ----------------------------- | ------------------- | ------------------ |
-| Olimpia García     |                 | Program Manager               |                     |                    |
-| Daniel Portaluppi  | @porta          | Program Manager               |                     |                    |
-| Ricardo Fernández  | @Richie         | Product Owner                 |                     |                    |
-| Mike Tena          | @Bromaeg        | Product Owner                 |                     |                    |
-| Carlos Salguero    | @salgue441      | Arquitecture Owner            |                     |                    |
-| Cajas              | @cajas          | Arquitecture Owner            |                     |                    |
-| Rodrigo Terán      | @Terán          | Team Leader                   |                     |                    |
-| Charlie Velasco    | @charlesvela66  | Team Leader                   |                     |                    |
-| Ricardo Rosales    |                 | Team member                   |                     |                    |
-| Diego Sandoval     |                 | Team member                   |                     |                    |
-| Diego Llaca        |                 | Team member / Comité de ética |                     |                    |
-| Yuna Chung         |                 | Team member                   |                     |                    |
-| Alejandra Cabrera  |                 | Team member                   |                     |                    |
-| Armando Rosas      | @ArmandoRosasB  | Team member                   |                     |                    |
-| Damariz Licea      |                 | Team member                   |                     |                    |
-| David Langarica    | @DavidLangarica | Team member                   |                     |                    |
-| Arturo Díaz        |                 | Team member                   |                     |                    |
-| Denisse Dominguez  | @DenisseDB      | Team member / Comité de ética |                     |                    |
-| Daniel Hurtado     |                 | Team member                   |                     |                    |
-| Diego Perdomo      |                 | Team member                   |                     |                    |
-| Diego Vega         | @dvegaa20       | Team member                   |                     |                    |
-| Frida Bailleres    | @FridaBG        | Team member                   |                     |                    |
-| Ian PC             |                 | Team member                   |                     |                    |
-| Juan Pablo Cabrera |                 | Team member / Comité de ética |                     |                    |
-| Mafer Moreno       |                 | Team member                   |                     |                    |
-| Ramona Nájera      | @RamonaNF       | Team member / Comité de ética |                     |                    |
-| José Riosmena      |                 | Team member                   |                     |                    |
-| Sebastián Flores   |                 | Team member / Comité de ética |                     |                    |
-| Sergio Garnica     |                 | Team member                   |                     |                    |
-| Uri Gopar          |                 | Team member                   |                     |                    |
+| Nombre             | Usuario                                                  | Rol Primer Periodo            | Rol Segundo Periodo | Rol Tercer Periodo |
+| ------------------ | -------------------------------------------------------- | ----------------------------- | ------------------- | ------------------ |
+| Olimpia García     | [OlimpiaGarcia](https://github.com/OlimpiaGarcia)        | Program Manager               |                     |                    |
+| Daniel Portaluppi  | [danfupo03](https://github.com/danfupo03)                | Program Manager               |                     |                    |
+| Ricardo Fernández  | [lCDSLI-Richard](https://github.com/lCDSLl-Richard)      | Product Owner                 |                     |                    |
+| Mike Tena          | [Bromaeg](https://github.com/Bromaeg)                    | Product Owner                 |                     |                    |
+| Carlos Salguero    | [salgue441](https://github.com/salgue441)                | Arquitecture Owner            |                     |                    |
+| Cajas              | [DanielSebasCM](https://github.com/DanielSebasCM)        | Arquitecture Owner            |                     |                    |
+| Rodrigo Terán      | [RodrigoTeran](https://github.com/RodrigoTeran)          | Team Leader                   |                     |                    |
+| Charlie Velasco    | [Charlesvela66](https://github.com/CharlesVela66)        | Team Leader                   |                     |                    |
+| Ricardo Rosales    | [ricardo020202](https://github.com/ricardo020202)        | Team member                   |                     |                    |
+| Diego Sandoval     | [DiegoSandovalV](https://github.com/DiegoSandovalV)      | Team member                   |                     |                    |
+| Diego Llaca        | [VON0222](https://github.com/VON0222)                    | Team member / Comité de ética |                     |                    |
+| Yuna Chung         | [YNA2131](https://github.com/yna2131)                    | Team member                   |                     |                    |
+| Alejandra Cabrera  | [alejandraa-cruiz](https://github.com/alejandraa-cruiz)  | Team member                   |                     |                    |
+| Armando Rosas      | [ArmandoRosasB](https://github.com/ArmandoRosasB)        | Team member                   |                     |                    |
+| Damariz Licea      | [DamarizLicea](https://github.com/DamarizLicea)          | Team member                   |                     |                    |
+| David Langarica    | [DavidLangarica](https://github.com/DavidLangarica)      | Team member                   |                     |                    |
+| Arturo Díaz        | [dembaA7](https://github.com/dembA7)                     | Team member                   |                     |                    |
+| Denisse Dominguez  | [DenisseDB](https://github.com/DenisseDB)                | Team member / Comité de ética |                     |                    |
+| Daniel Hurtado     | [DHurtado714-itesm](https://github.com/DHurtado714-itesm)| Team member                   |                     |                    |
+| Diego Perdomo      | [DiegoPerdomoS](https://github.com/DiegoPerdomoS)        | Team member                   |                     |                    |
+| Diego Vega         | [dvegaa20](https://github.com/dvegaa20)                  | Team member                   |                     |                    |
+| Frida Bailleres    | [FridaBG](https://github.com/FridaBG)                    | Team member                   |                     |                    |
+| Ian PC             | [Ian326](https://github.com/Ian326)                      | Team member                   |                     |                    |
+| Juan Pablo Cabrera | [JP-coder2000](https://github.com/JP-coder2000)          | Team member / Comité de ética |                     |                    |
+| Mafer Moreno       | [mafeermoreno](https://github.com/mafeermoreno)          | Team member                   |                     |                    |
+| Ramona Nájera      | [RamonaNF](https://github.com/RamonaNF)                  | Team member / Comité de ética |                     |                    |
+| José Riosmena      | [Riosmena](https://github.com/Riosmena)                  | Team member                   |                     |                    |
+| Sebastián Flores   | [sebFlores02](https://github.com/sebFlores02)            | Team member / Comité de ética |                     |                    |
+| Sergio Garnica     | [sgarnica1](https://github.com/sgarnica1)                | Team member                   |                     |                    |
+| Uri Gopar          | [UriGOPAR](https://github.com/UriGOPAR)                  | Team member                   |                     |                    |
 
 ---
 
@@ -57,8 +57,8 @@
 
 ### Roles:
 
-- Cada rol se somete a decisión al inicio de cada parcial
-- Se designó que cada proyecto tenga un Rol de liderazgo, por lo que no prodrá haber más de dos personas asignadas
+- Cada rol de liderazgo se somete a votación después de que la persona que ocupaba ese rol anteriormente considere haber cumplido su objetivo. 
+- Se designó que cada proyecto tenga un Rol de liderazgo, por lo que no prodrá haber más de dos personas asignadas.
 
 ### Comunicación:
 
@@ -69,10 +69,10 @@ Los canales de comunicacion oficiales son:
 
 Horario de comunicación:
 
-- 9:00 - 20:00 L-V
+- 9:00 a 20:00 L-V
 - S-D Bajo demanda
 
-### Herramientas de gestión de actvidades
+### Herramientas de gestión de actividades
 
 - [Calendario del grupo](https://calendar.google.com/calendar/u/0?cid=YTAxYWYwZDE0MjNjZWE5OWM1MjgwZjEyMmVmNDJiNjIxMTMxMTllMWQ2ZTljODgzODFhOGFhYTVhNTE2ZGE5N0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 - Github
