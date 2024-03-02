@@ -16,7 +16,7 @@ Team Members, Architecture Owner y Product Owner.
 
 ## Entradas
 
-Project Charter
+Documentación de la visión del proyecto
 
 ## Salidas
 
