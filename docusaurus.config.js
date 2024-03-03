@@ -8,6 +8,24 @@ import { themes as prismThemes } from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
+  webpack: {
+    jsLoader: (isServer) => ({
+      loader: require.resolve('swc-loader'),
+      options: {
+        jsc: {
+          parser: {
+            syntax: 'typescript',
+            tsx: true,
+          },
+          target: 'es2017',
+        },
+        module: {
+          type: isServer ? 'commonjs' : 'es6',
+        },
+      },
+    }),
+  },
+
   title: 'Black Dot',
   favicon: 'img/favicon.ico',
   url: 'https://black-dot-2024.github.io',
@@ -18,14 +36,18 @@ const config = {
   onBrokenLinks: 'log',
   onBrokenMarkdownLinks: 'log',
   onBrokenAnchors: 'log',
+
   i18n: {
     defaultLocale: 'es',
     locales: ['es'],
   },
+
   markdown: {
     mermaid: true,
   },
+
   themes: ['@docusaurus/theme-mermaid'],
+
   presets: [
     [
       'classic',
