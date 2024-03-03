@@ -2,16 +2,15 @@
 
 Cada miembro del departamento BlackDot se compromete a cumplir con los siguientes compromisos.
 
-
 En caso de incumplimiento, se aplicarán las consecuencias correspondientes.
 
 ## Índice
-- <u>[Compromiso 01: Ejecución de horas](#compromiso-01-ejecución-de-horas)</u>
-- <u>[Compromiso 02: Comunicación en el Departamento](#compromiso-03-comunicación-en-el-departamento)</u>
-- <u>[Compromiso 03: Juntas del Departamento](#compromiso-04-juntas-del-departamento)</u>
-- <u>[Compromiso 04: Respeto en la comunicación](#compromiso-05-respeto-en-la-comunicación)</u>
-- <u>[Compromiso 05: Asistencia interpersonal](#compromiso-06-asistencia-interpersonal)</u>
 
+- [Compromiso 01: Ejecución de horas](#compromiso-01-ejecución-de-horas)
+- [Compromiso 02: Comunicación en el Departamento](#compromiso-03-comunicación-en-el-departamento)
+- [Compromiso 03: Juntas del Departamento](#compromiso-04-juntas-del-departamento)
+- [Compromiso 04: Respeto en la comunicación](#compromiso-05-respeto-en-la-comunicación)
+- [Compromiso 05: Asistencia interpersonal](#compromiso-06-asistencia-interpersonal)
 
 ### Compromiso 01: Ejecución de horas
 
@@ -40,7 +39,7 @@ Mantener una comunicación activa dentro del departamento en horario laboral: 9:
 
 ### Compromiso 03: Juntas del Departamento
 
-***NOTA.** Revisar
+**\*NOTA.** Revisar
 
 #### Descripción
 
@@ -79,5 +78,3 @@ En caso de que un miembro del departamento necesite ayuda, se compromete a asist
 #### **Consecuencias de incumplimiento**
 
 1. Se notificará al Team Leader.
-
-
