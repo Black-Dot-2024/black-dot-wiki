@@ -39,8 +39,6 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
-      - name: DeployPage
-        uses: ayaka-notes/Docusaurus-GitPage-Action@v1.2
       - name: Cache node modules
         id: cache-npm
         uses: actions/cache@v4.0.1
@@ -53,3 +51,5 @@ jobs:
             ${{ runner.os }}-build-${{ env.cache-name }}-
             ${{ runner.os }}-build-
             ${{ runner.os }}-
+      - name: DeployPage
+        uses: ayaka-notes/Docusaurus-GitPage-Action@v1.2
