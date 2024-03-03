@@ -1,4 +1,3 @@
-
 # FAQ Wiki
 
 **1. ¿Cómo subo una nueva página?**
@@ -20,7 +19,7 @@
 5. Agrega un archivo _category_.json. Este archivo contiene información para la configuración de la carpeta.
 6. Cuando hayas finalizado, da click a “commit changes” ubicado arriba a la derecha.
 
-```
+`
 {
   "label": “Nombre de la carpeta”,
   "position": num,  //posición de la carpeta en la lista (asegúrate de no escribir un número ya existente)
@@ -28,8 +27,14 @@
     "type": "generated-index"
   }
 }
-```
-
+`
 
 ---
  
+**3. Al agregar un link a una palabra la palabra no tiene el aspecto de un link ¿cómo le hago?**
+
+Si queremos agregar un link como el siguiente: 
+`[Palabra](link)`
+Es necesario agregar las etiquetas de “underline” para que en la página sea notorio que esa palabra tiene un link asociado.
+El link quedaría de la siguiente manera 
+`<u> [Palabra](link) </u>`
