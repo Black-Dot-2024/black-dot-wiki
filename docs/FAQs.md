@@ -1,4 +1,4 @@
-# FAQ Wiki
+# FAQs Wiki
 
 **1. ¿Cómo subo una nueva página?**
 
