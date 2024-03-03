@@ -1,6 +1,7 @@
 # FAQs Wiki
 
-**1. ¿Cómo subo una nueva página?**
+<details>
+<summary>**1. ¿Cómo subo una nueva página?**</summary>
 
 1. Ubicar la carpeta “docs” dentro del repositorio.
 2. Dentro de la carpeta “docs”, ubicar la carpeta en la cual queremos añadir una página.
@@ -10,10 +11,10 @@
 6. Escribe tu página en MarkDown.
 7. Cuando hayas finalizado, da click a “commit changes” ubicado arriba a la derecha.
 8. Espera 1 minuta para que tu cambio se vea reflejado en la página.
+</details>
 
----
-
-**2. ¿Cómo subo una nueva carpeta?**
+<details>
+<summary>**2. ¿Cómo subo una nueva carpeta?**</summary>
 
 1. Ubicar la carpeta “docs” dentro del repositorio.
 2. Dentro de la carpeta “docs”, dar click a “add files” ubicado arriba a la derecha.
@@ -32,17 +33,21 @@
 }
 ```
 
----
+</details>
 
-**3. Me marca error cuando uso `<br>` ¿qué hago?**
+<details>
+<summary>**3. Me marca error cuando uso `<br>` ¿qué hago?**</summary>
 
 Si estamos utilizando lo siguiente:
 `<br>`
 Es necesario especificar que es una etiqueta de cierre, por lo que debe de quedar así:
 `<br />`
 
----
+</details>
 
-**4. No se suben mis cambios ¿qué hago?**
+<details>
+<summary>**4. No se suben mis cambios ¿qué hago?**</summary>
 
 Puedes verificar el estatus de tu código en la sección de “**Actions**” que se encuentra al lado del botón “Pull Request”, ahí podrás identificar si tus cambios están en proceso, si ya se desplegaron o si los cambios fueron rechazados por un error.
+
+</details>
