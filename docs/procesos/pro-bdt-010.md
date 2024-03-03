@@ -26,10 +26,10 @@ Solución documentada.
 
 | Fase        | Actividades | Responsables  | Prácticas Asociadas al CMMI |
 | ----------- | ----------- | ------------- | --------------------------- |
-| Análisis | Act 1      | Identificar el nivel de problema       | Cómite de Ética, Team Member | RSKM SP1.1, PMC SP1.3, IPM SP2.3 |
-| Análisis | Act 2      | Revisar la guía de resolución de conflictos      | Cómite de Ética, Team Member | RSKM SP1.1, PMC SP1.3, IPM SP2.3, DAR SP1.1 |
-| Diálogo | Act 3       | Atender el problema con base en la guía y el nivel de problema  | Comité de Ética, Team Member, Team Lead, Project Manager, Profesores | RSKM SP1.1, PMC SP1.3, IPM SP2.3, DAR SP1.3                        |
-| Documentación | Act 4   | Documentar incidencia y solución    | Comité de ética | PP SP3.3, OPD  SP1.6                        |
+| Análisis | Identificar el nivel de problema       | Cómite de Ética, Team Member | RSKM SP1.1, PMC SP1.3, IPM SP2.3 |
+| Análisis |  Revisar la guía de resolución de conflictos      | Cómite de Ética, Team Member | RSKM SP1.1, PMC SP1.3, IPM SP2.3, DAR SP1.1 |
+| Diálogo | Atender el problema con base en la guía y el nivel de problema  | Comité de Ética, Team Member, Team Lead, Project Manager, Profesores | RSKM SP1.1, PMC SP1.3, IPM SP2.3, DAR SP1.3                        |
+| Documentación | Documentar incidencia y solución    | Comité de ética | PP SP3.3, OPD  SP1.6                        |
 
 ## Control de cambios
 
