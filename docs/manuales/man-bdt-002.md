@@ -46,12 +46,13 @@ PENDIENTE (Opcional)
 9. Contenido de la presentación
    - Al insertar el contenido de la presentación es recomendable colocar una mayor cantidad de graficas y otros apoyos visuales en lugar de grandes cantidades de texto, esto para hacer una demostración más clara y digerible de la información relevante de la presentación.
 10. Revisión de la presentación
-   - Una vez terminada la elaboración de la presentación es de gran importancia que esta sea mostrada al resto del equipo para su retroalimentación y para asegurarse que toda la información relavante sea tratada.
+    - Una vez terminada la elaboración de la presentación es de gran importancia que esta sea mostrada al resto del equipo para su retroalimentación y para asegurarse que toda la información relavante sea tratada.
 11. Practica de la presentación
-   - No importa la confianza que se tenga por parte de los oradores, es de vital importancia que se practique la presentación y el contenido a tratar en esta, esto con el proposito de tener una excelente comunicación discursiva y por consecuencia transmitir efectivamente el contenido a tratar durante la presentación.
+    - No importa la confianza que se tenga por parte de los oradores, es de vital importancia que se practique la presentación y el contenido a tratar en esta, esto con el proposito de tener una excelente comunicación discursiva y por consecuencia transmitir efectivamente el contenido a tratar durante la presentación.
    
 ## Control de cambios
 
 | Versión | Cambio                                            | Autor del cambio             | Aprobado por | Fecha de cambio |
 | ------- | ------------------------------------------------- | ---------------------------- | ------------ | --------------- |
 | v 1.0.0 | Creación del Manual                               | José Diego Llaca Castro      |              | 02/03/2024      |
+| v 1.0.1 | Corrección de identación                          | José Diego Llaca Castro      |              | 02/03/2024      |
