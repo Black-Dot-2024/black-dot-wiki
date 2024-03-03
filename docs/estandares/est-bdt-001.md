@@ -25,11 +25,10 @@ La importancia de este documento es mantener un estándar e identidad para todos
 2. Se referirá a la Organización Socio Formadora como Cliente.
 3. El nombre de una fase debe ser conciso y comenzar con alguna de las siguientes sugerencias:
    1. **Inicio / Análisis**: Esta fase está fuertemente ligada al entendimiento de las entradas del proceso y representa el punto de partida para dar paso a su ejecución.
-   2. **Definición**: En esta fase el propósito del proceso se ve reflejado en sus actividades porque se enfocan en la transformación de sus entradas a sus salidas.
+   2. **Desarrollo**: En esta fase el propósito del proceso se ve reflejado en sus actividades porque se enfocan en la transformación de sus entradas a sus salidas.
    3. **Verificación**: Con las actividades de esta fase se busca retroalimentar el contenido del proceso hasta el momento y se especifica a qué fase deben regresar en caso de necesitar cambios.
    4. **Seguimiento**: Una fase perteneciente a esta categoría engloba actividades relacionadas al monitoreo y seguimiento de las salidas del proceso.
    5. **Notificación**
-   6. **Ejecución**: Actividades que necesitan de una acción inmediata para ser completadas.
    7. **Documentación**: En esta fase se consideran las actividades relacionadas al registro de información de las salidas del proceso en un documento oficial para que todo el departamento tenga acceso.
    8. **Solicitud**
 
