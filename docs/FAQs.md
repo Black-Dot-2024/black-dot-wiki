@@ -55,7 +55,7 @@ Puedes verificar el estatus de tu código en la sección de “**Actions**” qu
 </details>
 
 <details>
-<summary>**5. ¿Cómo cambio el orden el que aparecen las páginas?**</summary>
+<summary>**5. ¿Cómo cambio el orden el que aparecen las páginas en la barra lateral?**</summary>
 
 Para esto tienes que agregar una sección de metadata al inicio del archivo .md de la siguiente manera:
 
@@ -68,8 +68,8 @@ sidebar_position: 1
 ```
 
 - Los 3 guiones al inicio y al final son necesarios para que el archivo sea reconocido como una página de documentación.
-- El número que se encuentra después de `sidebar_position:` indica la posición en la que aparecerá la página en la barra lateral. Mientras más pequeño sea el número, más arriba aparecerá la página.
+- El número que se encuentra después de `sidebar_position` indica la posición en la que aparecerá la página en la barra lateral. Mientras más pequeño sea el número, más arriba aparecerá la página.
 
-**Procura que no haya dos páginas con el mismo número**.
+**Procura que no existan dos páginas con el mismo sidebar_position dentro de una sección**.
 
 </details>
