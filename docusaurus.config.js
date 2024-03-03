@@ -72,7 +72,8 @@ const config = {
     ({
       image: 'img/logo-bd.png',
       navbar: {
-        style: 'primary',
+        hideOnScroll: true,
+        style: 'dark',
         title: 'Black Dot',
         logo: {
           alt: 'Black Dot Logo',
