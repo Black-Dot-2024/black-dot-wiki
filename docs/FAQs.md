@@ -1,5 +1,7 @@
 # FAQs Wiki
 
+En esta sección encontrarás las preguntas más frecuentes sobre el uso de la wiki.
+
 <details>
 <summary>**1. ¿Cómo subo una nueva página?**</summary>
 
