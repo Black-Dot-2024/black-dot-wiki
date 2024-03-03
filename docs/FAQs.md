@@ -51,3 +51,23 @@ Es necesario especificar que es una etiqueta de cierre, por lo que debe de queda
 Puedes verificar el estatus de tu código en la sección de “**Actions**” que se encuentra al lado del botón “Pull Request”, ahí podrás identificar si tus cambios están en proceso, si ya se desplegaron o si los cambios fueron rechazados por un error.
 
 </details>
+
+<details>
+<summary>**5. ¿Cómo cambio el orden el que aparecen las páginas?**</summary>
+
+Para esto tienes que agregar una sección de metadata al inicio del archivo .md de la siguiente manera:
+
+```
+---
+sidebar_position: 1
+---
+
+...resto del contenido...
+```
+
+- Los 3 guiones al inicio y al final son necesarios para que el archivo sea reconocido como una página de documentación.
+- El número que se encuentra después de `sidebar_position:` indica la posición en la que aparecerá la página en la barra lateral. Mientras más pequeño sea el número, más arriba aparecerá la página.
+
+**Procura que no haya dos páginas con el mismo número**.
+
+</details>
