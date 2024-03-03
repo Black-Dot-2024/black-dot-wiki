@@ -38,3 +38,18 @@ Si queremos agregar un link como el siguiente:
 Es necesario agregar las etiquetas de “underline” para que en la página sea notorio que esa palabra tiene un link asociado.
 El link quedaría de la siguiente manera 
 `<u> [Palabra](link) </u>`
+
+---
+
+4. Me marca error cuando uso `<br>` ¿qué hago?
+
+Si estamos utilizando lo siguiente:
+`<br>`
+Es necesario especificar que es una etiqueta de cierre, por lo que debe de quedar así:
+`<br />`
+
+---
+
+**5. No se suben mis cambios ¿qué hago?**
+
+Puedes verificar el estatus de tu código en la sección de “**actions**” que se encuentra al lado del botón “pull request”, ahí podrás identificar si tus cambios están en proceso, si ya se desplegaron o si los cambios fueron rechazados por un error.
