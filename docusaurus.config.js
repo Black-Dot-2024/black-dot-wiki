@@ -72,6 +72,7 @@ const config = {
     ({
       image: 'img/logo-bd.png',
       navbar: {
+        style: 'primary',
         title: 'Black Dot',
         logo: {
           alt: 'Black Dot Logo',
@@ -86,7 +87,7 @@ const config = {
         ],
       },
       footer: {
-        style: 'dark',
+        style: 'light',
         copyright: `Copyright © 2024 Black Dot. Built with Docusaurus.`,
       },
       prism: {
