@@ -10,9 +10,11 @@ En nuestro departamento, reconocemos la importancia de una comunicación respons
 
 ## Medios
 
-El canal de comunicación principal será mediante el grupo de Whatsapp de CR Organizacional donde se encuentran los socios formadores y los representantes de Black Dot (Team Leader, Architecture Owner y Product Owner).
+El canal de comunicación principal será mediante el grupo de Whatsapp de CR Organizacional donde se encuentran los socios formadores y los representantes de Black Dot (Team Leader, Architecture Owner y Product Owner), aqui se organizan las renuiones, se resuelven dudas damos a conocer los puntos de vista tanto del socio como del equipo.
 
 El canal de comunicación secundario será mediante correo electrónico.
+
+Para las comunicaciones formales, utilizaremos la [plantilla de comunicación](https://docs.google.com/document/d/1eO7YG_qw98ETbj0fJPgfsT9RfVy2-64SvPJLLYbAQnA/edit), esta hoja se encuentra membretada con los colores del equipo (Blue Dot), el logo de Black Dot y el logo del Tecnológico de Monterrey.
 
 ## Reuniones
 
@@ -24,3 +26,4 @@ No se cuenta con un horario fijo para las reuniones, estas se llevarán a cabo c
 | ------- | ----------------- | ---------------- | ------------ | --------------- |
 | v 1 | Creación del plan | Diego Sandoval   | David Langarica             | 29/02/2024      |
 | v 2 | <ul> <li>Actualización de versionamiento.</li> <li>Revisión y corrección de ortografía.</li> </ul> | David Langarica    |             | 03/03/2024      |
+| v 3 | <ul> <li>Actualización de Medios.</li> <li>Revisión y corrección de ortografía.</li> </ul> | Mike Tena|             | 03/03/2024      |
