@@ -10,7 +10,7 @@ En nuestro departamento, reconocemos la importancia de una comunicación respons
 
 ## Medios
 
-El canal de comunicación principal será mediante el grupo de whatsapp de CR Organizacional donde se encuentran los socios formadores y los representantes de Black Dot (Team Leader, Architecture Owner y Product Owner).
+El canal de comunicación principal será mediante el grupo de Whatsapp de CR Organizacional donde se encuentran los socios formadores y los representantes de Black Dot (Team Leader, Architecture Owner y Product Owner).
 
 El canal de comunicación secundario será mediante correo electrónico.
 
@@ -22,4 +22,5 @@ No se cuenta con un horario fijo para las reuniones, estas se llevarán a cabo c
 
 | Versión | Cambio            | Autor del cambio | Aprobado por | Fecha de cambio |
 | ------- | ----------------- | ---------------- | ------------ | --------------- |
-| v 1.0.0 | Creación del plan | Diego Sandoval   | David Langarica             | 29/02/2024      |
+| v 1 | Creación del plan | Diego Sandoval   | David Langarica             | 29/02/2024      |
+| v 2 | <ul> <li>Actualización de versionamiento.</li> <li>Revisión y corrección de ortografía.</li> </ul> | David Langarica    |             | 03/03/2024      |
