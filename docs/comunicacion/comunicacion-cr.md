@@ -14,7 +14,7 @@ El canal de comunicación principal será el grupo de WhatsApp de CR Organizacio
 
 El canal de comunicación secundario será el correo electrónico.
 
-Para las comunicaciones formales,  utilizaremos la [plantilla de comunicación](https://docs.google.com/document/d/1eO7YG_qw98ETbj0fJPgfsT9RfVy2-). Esta plantilla está membretada con los colores del equipo (Blue Dot), e incluye el logo de Black Dot y el logo del Tecnológico de Monterrey.
+Para las comunicaciones formales,  utilizaremos la [plantilla de comunicación](https://docs.google.com/document/d/1eO7YG_qw98ETbj0fJPgfsT9RfVy2-64SvPJLLYbAQnA/edit?usp=sharing). Esta plantilla está membretada con los colores del equipo (Blue Dot), e incluye el logo de Black Dot y el logo del Tecnológico de Monterrey.
 
 ## Reuniones
 
