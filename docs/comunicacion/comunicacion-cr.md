@@ -14,7 +14,7 @@ El canal de comunicación principal será el grupo de WhatsApp de CR Organizacio
 
 El canal de comunicación secundario será el correo electrónico.
 
-Para las comunicaciones formales,  utilizaremos la [plantilla de comunicación](https://docs.google.com/document/d/1eO7YG_qw98ETbj0fJPgfsT9RfVy2-64SvPJLLYbAQnA/edit?usp=sharing). Esta plantilla está membretada con los colores del equipo (Blue Dot), e incluye el logo de Black Dot y el logo del Tecnológico de Monterrey.
+Para las comunicaciones formales, utilizaremos la [plantilla de comunicación](https://docs.google.com/document/d/1eO7YG_qw98ETbj0fJPgfsT9RfVy2-64SvPJLLYbAQnA/edit?usp=sharing). Esta plantilla está membretada con los colores del equipo (Blue Dot), e incluye el logo de Black Dot y el logo del Tecnológico de Monterrey.
 
 ## Reuniones
 
@@ -22,9 +22,9 @@ No se cuenta con un horario fijo para las reuniones, estas se llevarán a cabo c
 
 ## Control de cambios
 
-| Versión | Cambio            | Autor del cambio | Aprobado por | Fecha de cambio |
-| ------- | ----------------- | ---------------- | ------------ | --------------- |
-| v 1 | Creación del plan | Diego Sandoval   | David Langarica             | 29/02/2024      |
-| v 2 | <ul> <li>Actualización de versionamiento.</li> <li>Revisión y corrección de ortografía.</li> </ul> | David Langarica    |             | 03/03/2024      |
-| v 3 | <ul> <li>Actualización de Medios.</li> <li>Revisión y corrección de ortografía.</li> </ul> | Mike Tena|             | 04/03/2024      |
-| V 3.1 | <li>Revisión y corrección de ortografía.</li> </ul> | Mike Tena|             | 04/03/2024      |
+| Versión | Cambio                                                                                             | Autor del cambio | Aprobado por    | Fecha de cambio |
+| ------- | -------------------------------------------------------------------------------------------------- | ---------------- | --------------- | --------------- |
+| v 1     | Creación del plan                                                                                  | Diego Sandoval   | David Langarica | 29/02/2024      |
+| v 2     | <ul> <li>Actualización de versionamiento.</li> <li>Revisión y corrección de ortografía.</li> </ul> | David Langarica  |                 | 03/03/2024      |
+| v 2.1   | <ul> <li>Actualización de Versionamiento.</li> <li>Revisión y corrección de ortografía.</li> </ul> | Mike Tena        | David Langarica | 04/03/2024      |
+| V 2.2   | Revisión y corrección de ortografía                                                                | Mike Tena        | David Langarica | 04/03/2024      |
