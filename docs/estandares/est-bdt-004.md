@@ -1,6 +1,6 @@
 # EST-BDT-004 Identificadores de Documentación
 
-v 2.0.0 / áreas del CMMI
+v 4.0 / áreas del CMMI
 
 ## Propósito
 
