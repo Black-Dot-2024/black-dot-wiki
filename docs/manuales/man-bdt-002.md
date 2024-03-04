@@ -15,11 +15,11 @@ Todo integrante que participe en la creación de una presentación para el clien
 
 ## Entradas
 
-Necesidad de demostrar o presentar información al cliente.
+Información documentada relevante de los estados del proyecto.
 
 ## Salidas
 
-Elaboración correcta de una presentación para mostrar al cliente.
+Presentación elaborada correctamente para mostrar al cliente.
 
 ## Diagrama
 
@@ -47,12 +47,15 @@ PENDIENTE (Opcional)
    - Al insertar el contenido de la presentación es recomendable colocar una mayor cantidad de graficas y otros apoyos visuales en lugar de grandes cantidades de texto, esto para hacer una demostración más clara y digerible de la información relevante de la presentación.
 10. Revisión de la presentación
     - Una vez terminada la elaboración de la presentación es de gran importancia que esta sea mostrada al resto del equipo para su retroalimentación y para asegurarse que toda la información relavante sea tratada.
-11. Practica de la presentación
+11. Preguntas posibles
+    - Es recomendable plantear posibles preguntas que se puedan realizar sobre la presentación y preparar respuestas para estas con el proposito de evitar que los oradores sean tomados por sorpresa.
+12. Practica de la presentación
     - No importa la confianza que se tenga por parte de los oradores, es de vital importancia que se practique la presentación y el contenido a tratar en esta, esto con el proposito de tener una excelente comunicación discursiva y por consecuencia transmitir efectivamente el contenido a tratar durante la presentación.
    
 ## Control de cambios
 
-| Versión | Cambio                                            | Autor del cambio             | Aprobado por | Fecha de cambio |
-| ------- | ------------------------------------------------- | ---------------------------- | ------------ | --------------- |
-| v 1.0 | Creación del Manual                               | José Diego Llaca Castro      |              | 02/03/2024      |
-| v 1.1 | Corrección de identación                          | José Diego Llaca Castro      |              | 02/03/2024      |
+| Versión | Cambio                                                       | Autor del cambio             | Aprobado por     | Fecha de cambio |
+| ------- | ------------------------------------------------------------ | ---------------------------- | ---------------- | --------------- |
+| v 1.0   | Creación del Manual                                          | José Diego Llaca Castro      |                  | 02/03/2024      |
+| v 1.1   | Corrección de identación                                     | José Diego Llaca Castro      |                  | 02/03/2024      |
+| v 2.0   | Adición de preguntas posibles y entradas y salidas tangibles | José Diego Llaca Castro      | Alejandra Cabrera | 02/03/2024      |
