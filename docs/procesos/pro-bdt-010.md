@@ -35,6 +35,6 @@ Solución documentada.
 
 | Versión | Cambio                 | Autor del cambio | Aprobado por | Fecha de cambio |
 | ------- | ---------------------- | ---------------- | ------------ | --------------- |
-| v 0.0.1 | Creación del Proceso | Damariz Licea, David Langarica          |       | 03/03/2024      |
+| v 1 | Creación del Proceso | Damariz Licea, David Langarica          |       | 03/03/2024      |
 
 
