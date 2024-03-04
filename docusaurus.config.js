@@ -71,6 +71,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       image: 'img/logo-bd.png',
+
       navbar: {
         hideOnScroll: true,
         style: 'dark',
@@ -87,13 +88,21 @@ const config = {
           },
         ],
       },
+
       footer: {
         style: 'light',
         copyright: `Copyright © 2024 Black Dot. Built with Docusaurus.`,
       },
+
       prism: {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
+      },
+
+      algolia: {
+        appId: '6KWYVW3922',
+        apiKey: 'a3037adb2a4b69040cf1873f1b5e588d',
+        indexName: 'black-dot-2024io',
       },
     }),
 };
