@@ -20,9 +20,9 @@ En esta sección encontrarás las preguntas más frecuentes sobre el uso de la w
 
 1. Ubicar la carpeta “docs” dentro del repositorio.
 2. Dentro de la carpeta “docs”, dar click a “add files” ubicado arriba a la derecha.
-3. El nombre de la carpeta debe ser definido de la siguiente manera: **nombre-de-carpeta/nombre-de-página.md**.
+3. El nombre de la carpeta debe ser definido de la siguiente manera: **nombre-de-carpeta/nombre-de-página.md**
 4. El primer nombre hace referencia a cómo se llamará la carpeta mientras que el nombre después del “/“ se refiere al nombre de una página dentro de la nueva carpeta.
-5. Agrega un archivo _category_.json. Este archivo contiene información para la configuración de la carpeta.
+5. Agrega un archivo \_category\_.json. Este archivo contiene información para la configuración de la carpeta.
 6. Cuando hayas finalizado, da click a “commit changes” ubicado arriba a la derecha.
 
 ```
