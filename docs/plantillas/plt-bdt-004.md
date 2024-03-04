@@ -1,4 +1,4 @@
-# PL-BDT-004 Plantilla de Manuales
+# PLT-BDT-004 Plantilla de Manuales
 
 v 0.0.0 / áreas del CMMI
 

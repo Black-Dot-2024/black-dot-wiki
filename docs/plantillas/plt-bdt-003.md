@@ -1,4 +1,4 @@
-# PL-BDT-003 Plantilla de Estándares
+# PLT-BDT-003 Plantilla de Estándares
 
 v 0.0.0 / áreas del CMMI
 

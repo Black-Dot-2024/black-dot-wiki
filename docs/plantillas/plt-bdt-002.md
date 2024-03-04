@@ -1,4 +1,4 @@
-# PL-BDT-002 Plantilla de Políticas
+# PLT-BDT-002 Plantilla de Políticas
 
 v 0.0.0 / áreas del CMMI
 
