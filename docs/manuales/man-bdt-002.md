@@ -54,8 +54,8 @@ PENDIENTE (Opcional)
    
 ## Control de cambios
 
-| Versión | Cambio                                                       | Autor del cambio             | Aprobado por     | Fecha de cambio |
-| ------- | ------------------------------------------------------------ | ---------------------------- | ---------------- | --------------- |
-| v 1.0   | Creación del Manual                                          | José Diego Llaca Castro      |                  | 02/03/2024      |
-| v 1.1   | Corrección de identación                                     | José Diego Llaca Castro      |                  | 02/03/2024      |
-| v 2.0   | Adición de preguntas posibles y entradas y salidas tangibles | José Diego Llaca Castro      | Alejandra Cabrera | 02/03/2024      |
+| Versión | Cambio                                                       | Autor del cambio             | Aprobado por      | Fecha de cambio |
+| ------- | ------------------------------------------------------------ | ---------------------------- | ----------------- | --------------- |
+| v 1.0   | Creación del Manual                                          | José Diego Llaca Castro      |                   | 02/03/2024      |
+| v 1.1   | Corrección de identación                                     | José Diego Llaca Castro      |                   | 02/03/2024      |
+| v 2.0   | Adición de preguntas posibles y entradas y salidas tangibles | José Diego Llaca Castro      | Alejandra Cabrera | 04/03/2024      |
