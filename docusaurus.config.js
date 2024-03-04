@@ -98,6 +98,12 @@ const config = {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
       },
+
+      algolia: {
+        appId: '6KWYVW3922',
+        apiKey: 'a3037adb2a4b69040cf1873f1b5e588d',
+        indexName: 'black-dot-2024io',
+      },
     }),
 };
 
