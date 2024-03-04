@@ -34,4 +34,4 @@ Requerimiento modificado, definido o deprecado, según corresponda.
 
 | Versión | Cambio                 | Autor del cambio | Aprobado por | Fecha de cambio |
 | ------- | ---------------------- | ---------------- | ------------ | --------------- |
-| v 1.0.0 | Descripción del cambio | Daniel Cajas     | Uri Gopar    | 28/02/2024      |
+| v 1.0 | Descripción del cambio | Daniel Cajas     | Uri Gopar    | 28/02/2024      |

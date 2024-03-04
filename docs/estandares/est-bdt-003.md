@@ -27,5 +27,5 @@ Ejemplo: `v 1`, `v 2`, `v 3`, etc.
 
 | Versión | Cambio                 | Autor del cambio | Aprobado por | Fecha de cambio |
 | ------- | ---------------------- | ---------------- | ------------ | --------------- |
-| v 1 | Creación del documento | Daniel Hurtado    |  Frida Bailleres           | 01/03/2024      |
+| v 1.0 | Creación del documento | Daniel Hurtado    |  Frida Bailleres           | 01/03/2024      |
 | v 1.1 | Correción ortográfica | Olimpia García    |  Diego Llaca           | 04/03/2024      |

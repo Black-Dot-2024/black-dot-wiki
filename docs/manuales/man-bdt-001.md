@@ -45,4 +45,4 @@ Si tu necesidad o idea no se puede ver plasmada en ninguna de las anteriores ent
 
 | Versión | Cambio              | Autor del cambio                                            | Aprobado por | Fecha de cambio |
 | ------- | ------------------- | ----------------------------------------------------------- | ------------ | --------------- |
-| v 1.0.0 | Creación del manual | Alejandra Cabrera, <br/> Arturo Díaz, <br/> Ian Joab Padrón |              | 26/02/2024      |
+| v 1.0 | Creación del manual | Alejandra Cabrera, <br/> Arturo Díaz, <br/> Ian Joab Padrón |              | 26/02/2024      |

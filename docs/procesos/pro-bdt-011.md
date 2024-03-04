@@ -33,4 +33,4 @@ Documentación de cada fase ejecutada sobre la funcionalidad
 
 | Versión | Cambio                 | Autor del cambio | Aprobado por | Fecha de cambio |
 | ------- | ---------------------- | ---------------- | ------------ | --------------- |
-| v 1.0.0 | Creación del Proceso   | Ian Padrón <br /> Armando Rosas <br /> Ramona Nájera | Uri Gopar <br /> Mafer Moreno | 02/03/2024 |
+| v 1.0 | Creación del Proceso   | Ian Padrón <br /> Armando Rosas <br /> Ramona Nájera | Uri Gopar <br /> Mafer Moreno | 02/03/2024 |

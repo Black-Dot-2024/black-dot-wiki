@@ -40,6 +40,6 @@ Nuevo proceso ya documentado.
 
 | Versión | Cambio                                                                        | Autor del cambio                                                             | Aprobado por    | Fecha de cambio |
 | ------- | ----------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | --------------- | --------------- |
-| v 1.0.0 | Creación del proceso                                                          | Ian Joab Padrón Daniel Hurtado Frida Bailleres Alejandra Cabrera Arturo Díaz |                 | 25/02/2024      |
-| v 1.0.1 | Actualización fase de _Implementación_                                        | Alejandra Cabrera                                                            | Ian Joab Padrón | 26/02/2024      |
-| v 1.0.2 | Agregar referencia al estándar EST‐BDT‐004 Identificadores de Documentación | Sergio Garnica González                                                      |                 | 28/02/2024      |
+| v 1.0 | Creación del proceso                                                          | Ian Joab Padrón Daniel Hurtado Frida Bailleres Alejandra Cabrera Arturo Díaz |                 | 25/02/2024      |
+| v 2.0 | Actualización fase de _Implementación_                                        | Alejandra Cabrera                                                            | Ian Joab Padrón | 26/02/2024      |
+| v 3.0 | Agregar referencia al estándar EST‐BDT‐004 Identificadores de Documentación | Sergio Garnica González                                                      |                 | 28/02/2024      |

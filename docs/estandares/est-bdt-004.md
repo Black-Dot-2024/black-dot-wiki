@@ -55,6 +55,6 @@ Asignación correcta de identificador de un manual, política o proceso.
 
 | Versión | Cambio                                            | Autor del cambio             | Aprobado por | Fecha de cambio |
 | ------- | ------------------------------------------------- | ---------------------------- | ------------ | --------------- |
-| v 1.0.0 | Creación de la política                           | Arturo Díaz, Ian Joab Padrón |              | 26/02/2024      |
-| v 1.0.1 | Agregar nomenclatura para Estándares y Plantillas | Sergio Garnica González      |              | 26/02/2024      |
-| v 1.0.2 | Agregar nomenclatura para Guías                   | Diego Sandoval               | Daniel Cajas | 28/02/2024      |
+| v 1.0 | Creación de la política                           | Arturo Díaz, Ian Joab Padrón |              | 26/02/2024      |
+| v 2.0 | Agregar nomenclatura para Estándares y Plantillas | Sergio Garnica González      |              | 26/02/2024      |
+| v 3.0 | Agregar nomenclatura para Guías                   | Diego Sandoval               | Daniel Cajas | 28/02/2024      |

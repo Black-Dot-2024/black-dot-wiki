@@ -40,4 +40,4 @@ El diagrama del proceso es opcional
 
 | Versión | Cambio               | Autor del cambio                             | Aprobado por | Fecha de cambio |
 | ------- | -------------------- | -------------------------------------------- | ------------ | --------------- |
-| v 1.0.0 | Creación del proceso | Armando Rosas Ian Padrón <br/> Ramona Nájera |              | 29/02/2024      |
+| v 1.0 | Creación del proceso | Armando Rosas Ian Padrón <br/> Ramona Nájera |              | 29/02/2024      |

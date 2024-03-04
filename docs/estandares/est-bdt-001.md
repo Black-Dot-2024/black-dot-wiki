@@ -49,5 +49,5 @@ La importancia de este documento es mantener un estándar e identidad para todos
 
 | Versión | Cambio                                       | Autor del cambio                                                | Aprobado por | Fecha de cambio |
 | ------- | -------------------------------------------- | --------------------------------------------------------------- | ------------ | --------------- |
-| v 1.0.0 | Creación del documento                       | Sergio Garnica González                                         |              | 26/02/2024      |
-| v 1.0.1 | Estándares para el nombramiento de las fases | Sergio Garnica González <br/> Ramona Najera <br/> Armando Rosas |              | 26/02/2024      |
+| v 1.0 | Creación del documento                       | Sergio Garnica González                                         |              | 26/02/2024      |
+| v 1.0 | Estándares para el nombramiento de las fases | Sergio Garnica González <br/> Ramona Najera <br/> Armando Rosas |              | 26/02/2024      |

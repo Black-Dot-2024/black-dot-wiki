@@ -49,4 +49,4 @@ Hacer un diagrama facilitará los siguientes aspectos:
 
 | Versión | Cambio                 | Autor del cambio | Aprobado por | Fecha de cambio |
 | ------- | ---------------------- | ---------------- | ------------ | --------------- |
-| v 1.0.0 | Creación del manual    | Uri Gopar <br /> Mafer Moreno   | Ian Padrón <br /> Armando Rosas <br /> Ramona Nájera |02/03/2024|
+| v 1.0 | Creación del manual    | Uri Gopar <br /> Mafer Moreno   | Ian Padrón <br /> Armando Rosas <br /> Ramona Nájera |02/03/2024|

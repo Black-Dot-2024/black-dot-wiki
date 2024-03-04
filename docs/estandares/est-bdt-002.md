@@ -31,4 +31,4 @@ La importancia de este documento es mantener un estándar e identidad para todos
 
 | Versión | Cambio                 | Autor del cambio | Aprobado por | Fecha de cambio |
 | ------- | ---------------------- | ---------------- | ------------ | --------------- |
-| v 1.0.0 | Creación del documento | Sergio Garnica   |              | 26/02/2024      |
+| v 1.0 | Creación del documento | Sergio Garnica   |              | 26/02/2024      |

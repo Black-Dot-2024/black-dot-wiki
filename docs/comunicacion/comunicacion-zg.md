@@ -37,5 +37,5 @@ Respetando los días hábiles y horario de oficina, se establece que la comunica
 ## Control de cambios
 | Versión | Cambio | Autor del cambio | Aprobado por | Fecha de cambio |
 |---------|--------|------------------|--------------|-----------------|
-| v 1 | Creación del plan |Denisse Dominguez |  | 01/03/2024 |
-| v 2 | <ul> <li>Actualización de versionamiento.</li> <li>Revisión y corrección de ortografía.</li> </ul> | David Langarica    |             | 03/03/2024      |
+| v 1.0 | Creación del plan |Denisse Dominguez |  | 01/03/2024 |
+| v 2.0 | <ul> <li>Actualización de versionamiento.</li> <li>Revisión y corrección de ortografía.</li> </ul> | David Langarica    |             | 03/03/2024      |

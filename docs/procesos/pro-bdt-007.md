@@ -34,4 +34,4 @@ Estrategia para dar un seguimiento continuo al plan de riesgo y el documento de 
 
 | Versión | Cambio               | Autor del cambio | Aprobado por                              | Fecha de cambio |
 | ------- | -------------------- | ---------------- | ----------------------------------------- | --------------- |
-| v 1.0.0 | Creación del proceso | Yuna Chung       | Sebastian Flores <br/> Juan Pablo Cabrera | 27/02/2024      |
+| v 1.0 | Creación del proceso | Yuna Chung       | Sebastian Flores <br/> Juan Pablo Cabrera | 27/02/2024      |

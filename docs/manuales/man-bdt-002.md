@@ -54,5 +54,5 @@ PENDIENTE (Opcional)
 
 | Versión | Cambio                                            | Autor del cambio             | Aprobado por | Fecha de cambio |
 | ------- | ------------------------------------------------- | ---------------------------- | ------------ | --------------- |
-| v 1.0.0 | Creación del Manual                               | José Diego Llaca Castro      |              | 02/03/2024      |
-| v 1.0.1 | Corrección de identación                          | José Diego Llaca Castro      |              | 02/03/2024      |
+| v 1.0 | Creación del Manual                               | José Diego Llaca Castro      |              | 02/03/2024      |
+| v 1.1 | Corrección de identación                          | José Diego Llaca Castro      |              | 02/03/2024      |

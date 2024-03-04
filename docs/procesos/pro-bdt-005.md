@@ -37,7 +37,7 @@ Documentación de la Visión del Proyecto y Carta de Intención firmada
 
 | Versión | Cambio                                                                                                   | Autor del cambio                   | Aprobado por                           | Fecha de cambio |
 | ------- | -------------------------------------------------------------------------------------------------------- | ---------------------------------- | -------------------------------------- | --------------- |
-| v 1.0.0 | Creación del proceso                                                                                     | Carlos Velasco                     | Daniel Hurtado                         | 25/02/2024      |
-| v 2.0.0 | Se adapto a Project Charter                                                                              | Alejandra Cabrera                  | Pendiente                              | 27/02/2024      |
-| v 3.0.0 | Se hizo una combinación entre los elementos valiosos del Project Charter y de las recomendaciones en DAD | Alejandra Cabrera <br/> Yuna Chung | Ricardo Fernández <br/> Carlos Velasco | 27/02/2024      |
-| v.4.0.0 | Agregar elementos que nos recomiendan los profesores y DAD                                               | Yuna Chung                         | Olimpia García                         | 28/02/2024      |
+| v 1.0 | Creación del proceso                                                                                     | Carlos Velasco                     | Daniel Hurtado                         | 25/02/2024      |
+| v 2.0 | Se adapto a Project Charter                                                                              | Alejandra Cabrera                  | Pendiente                              | 27/02/2024      |
+| v 3.0 | Se hizo una combinación entre los elementos valiosos del Project Charter y de las recomendaciones en DAD | Alejandra Cabrera <br/> Yuna Chung | Ricardo Fernández <br/> Carlos Velasco | 27/02/2024      |
+| v 4.0 | Agregar elementos que nos recomiendan los profesores y DAD                                               | Yuna Chung                         | Olimpia García                         | 28/02/2024      |
