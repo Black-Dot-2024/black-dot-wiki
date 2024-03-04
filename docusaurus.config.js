@@ -99,11 +99,13 @@ const config = {
         darkTheme: prismThemes.dracula,
       },
 
-      // algolia: {
-      //   appId: '6KWYVW3922',
-      //   apiKey: 'a3037adb2a4b69040cf1873f1b5e588d',
-      //   indexName: 'black-dot-2024io',
-      // },
+      algolia: {
+        indexName: 'black-dot-2024io',
+        appId: '6KWYVW3922',
+        apiKey: '18b88590262a89cbb43440cd25c23c32',
+        debug: false,
+        contextualSearch: false,
+      },
     }),
 };
 
