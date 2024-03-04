@@ -24,7 +24,7 @@ No se cuenta con un horario fijo para las reuniones, estas se llevarán a cabo c
 
 | Versión | Cambio                                                                                             | Autor del cambio | Aprobado por    | Fecha de cambio |
 | ------- | -------------------------------------------------------------------------------------------------- | ---------------- | --------------- | --------------- |
-| v 1     | Creación del plan                                                                                  | Diego Sandoval   | David Langarica | 29/02/2024      |
-| v 2     | <ul> <li>Actualización de versionamiento.</li> <li>Revisión y corrección de ortografía.</li> </ul> | David Langarica  |                 | 03/03/2024      |
-| v 2.1   | <ul> <li>Actualización de Versionamiento.</li> <li>Revisión y corrección de ortografía.</li> </ul> | Mike Tena        | David Langarica | 04/03/2024      |
-| V 2.2   | Revisión y corrección de ortografía                                                                | Mike Tena        | David Langarica | 04/03/2024      |
+| v 1.0   | Creación del plan                                                                                  | Diego Sandoval   | David Langarica | 29/02/2024      |
+| v 2.0   | <ul> <li>Actualización de versionamiento.</li> <li>Revisión y corrección de ortografía.</li> </ul> | David Langarica  |                 | 03/03/2024      |
+| v 3.0   | <ul> <li>Actualización de medios.</li> <li>Revisión y corrección de ortografía.</li> </ul>         | Mike Tena        | David Langarica | 04/03/2024      |
+| V 3.1   | Revisión y corrección de ortografía                                                                | Mike Tena        | David Langarica | 04/03/2024      |
